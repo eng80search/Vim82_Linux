@@ -621,3 +621,7 @@ set ambiwidth=double
 
 " インストールした日本語ヘルプを有効化する
 set helplang=ja,en
+
+" vim_current_word setting in cui mode
+hi CurrentWord ctermbg=53
+hi CurrentWordTwins ctermbg=240
